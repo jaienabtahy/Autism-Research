@@ -30,7 +30,7 @@ The following contributions were made to the project by [Jaien Abtahi]:
 - Customized difficulty levels based on the child's needs
 - Conducted user testing and incorporated feedback to improve the user experience
 ## Credits
-This project was developed by [Your Name] with the guidance and support of [Dr. Mohammad Azhar] from [BMCC].
+This project was developed by [Jaien Abtahi] with the guidance and support of [Dr. Mohammad Azhar] from [BMCC].
 
 ## Conclusion
 This project demonstrates the potential of VR technology for education and learning, especially for children with special needs like autism. The project can be used as a foundation for further research and development in the field of VR-based education and training. With the rise of VR technology, this project showcases the potential to use it as a tool to create safe and controlled environments for learning and improving the lives of children with special needs.
